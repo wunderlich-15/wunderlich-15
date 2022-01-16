@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme Wunderlich 
+## Guilherme Wunderlich 
 - 🌱 Estudando Python, PHP e Javascript
 - 🔭 Trabalhando No Bot Receita 
 - ⚡ Orgulhoso criador do Bot Careca e da Facility Imóveis
@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/wunderlich-15">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wunderlich-15&count_private=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wunderlich-15&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wunderlich-15&count_private=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wunderlich-15&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
