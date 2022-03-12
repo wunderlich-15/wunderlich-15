@@ -1,9 +1,7 @@
 ## Guilherme Wunderlich 
 - 🌱 Estudando Python, PHP e Javascript
-- 🔭 Trabalhando No Bot Receita 
 - ⚡ Orgulhoso criador do Bot Careca e da Facility Imóveis
-- 💼 Conhecimento avançado em liguagens Front-end (HTML, CSS)
-
+- 💼 Estudante do primeiro semestre de Banco de dados
 ##
 
 <div>
