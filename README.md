@@ -1,7 +1,7 @@
 ## Guilherme Wunderlich 
 - 🌱 Estudando Python, PHP e Javascript
 - ⚡ Orgulhoso criador do Bot Careca e da Facility Imóveis
-- 💼 Estudante do primeiro semestre de Banco de dados
+- 💼 Estudante do segundo semestre de Banco de dados
 ##
 
 <div>
