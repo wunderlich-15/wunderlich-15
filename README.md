@@ -2,6 +2,7 @@
 - 🌱 Estudando Python, PHP, Javascript e Java
 - ⚡ Orgulhoso criador do Bot Careca e da Facility Imóveis
 - 💼 Estudante do segundo semestre de Banco de dados
+- 🎮 Estudando desenvolvimento e jogos na engine Godot
 ##
 
 <div>
@@ -19,5 +20,6 @@
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
   </p>
 </div>
