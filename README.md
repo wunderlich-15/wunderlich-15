@@ -2,7 +2,7 @@
 - 🌱 Estudando Python, PHP, Javascript e Java
 - ⚡ Orgulhoso criador do Bot Careca e da Facility Imóveis
 - 💼 Estudante do segundo semestre de Banco de dados
-- 🎮 Estudando desenvolvimento e jogos na engine Godot
+- 🎮 Estudando desenvolvimento de jogos na Godot Game engine
 ##
 
 <div>
