@@ -1,6 +1,6 @@
 ## Guilherme Wunderlich 
-- 🌱 Estudando React.js, Java e Python
-- 💼 Estudante do terceiro semestre de Banco de dados
+- 🌱 React.js, Java e Python
+- 💼 Estudante do quarto semestre de Banco de dados
 - 🎮 Estudando desenvolvimento de jogos na Godot Game engine
 ##
 
